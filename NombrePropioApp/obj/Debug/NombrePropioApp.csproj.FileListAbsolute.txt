@@ -1,0 +1,7 @@
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\bin\Debug\NombrePropioApp.exe.config
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\bin\Debug\NombrePropioApp.exe
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\bin\Debug\NombrePropioApp.pdb
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.csprojAssemblyReference.cache
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.csproj.CoreCompileInputs.cache
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.exe
+C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.pdb
