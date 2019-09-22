@@ -25,7 +25,7 @@ namespace NombrePropioApp
                               nombre.Substring(b, 1).ToUpper() + // 3° mayuscula
                               nombre.Substring((b + 1), (c - b)).ToLower() + // minuscula
                               nombre.Substring((c + 1), 1).ToUpper() + // 4° mayuscula
-                              nombre.Substring(c + 2).ToLower()); // minusculas
+                              nombre.Substring(c + 2).ToLower()); // minusculas, FIN
             Console.ReadKey();
         }
     }
