@@ -10,7 +10,7 @@ namespace NombrePropioApp
     {
         static void Main(string[] args)
         {
-            string nombre = "arIEl jA cID carDENAs";
+            string nombre = "nesTOr mIGUel cARRascO HuenTEMIL";
             int a = nombre.IndexOf(" ") + 1; // posicion del 1° caracter nulo de izquierda a derecha
 
             string primerNombre = nombre.Substring(a);
