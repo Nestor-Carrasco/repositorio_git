@@ -5,3 +5,10 @@ C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioA
 C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.csproj.CoreCompileInputs.cache
 C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.exe
 C:\Users\estor\source\repos\NombrePropio\NombrePropioApp\obj\Debug\NombrePropioApp.pdb
+C:\Users\estor\repositorio_git\NombrePropioApp\bin\Debug\NombrePropioApp.exe.config
+C:\Users\estor\repositorio_git\NombrePropioApp\bin\Debug\NombrePropioApp.exe
+C:\Users\estor\repositorio_git\NombrePropioApp\bin\Debug\NombrePropioApp.pdb
+C:\Users\estor\repositorio_git\NombrePropioApp\obj\Debug\NombrePropioApp.csprojAssemblyReference.cache
+C:\Users\estor\repositorio_git\NombrePropioApp\obj\Debug\NombrePropioApp.csproj.CoreCompileInputs.cache
+C:\Users\estor\repositorio_git\NombrePropioApp\obj\Debug\NombrePropioApp.exe
+C:\Users\estor\repositorio_git\NombrePropioApp\obj\Debug\NombrePropioApp.pdb
