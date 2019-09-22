@@ -18,15 +18,15 @@ namespace NombrePropioApp
 
             int c = nombre.LastIndexOf(" "); // posicion del 3° caracter nulo de izquierda a derecha
 
-        //    Console.WriteLine(nombre.Substring(0, 1).ToUpper() + // 1° mayuscula 
-        //                      nombre.Substring(1, (a - 1)).ToLower() + // minuscula
-        //                      nombre.Substring(a, 1).ToUpper() + // 2° mayuscula
-        //                      nombre.Substring((a + 1), (b - a - 1)).ToLower() +// minusculas
-        //                      nombre.Substring(b, 1).ToUpper() + // 3° mayuscula
-        //                      nombre.Substring((b + 1), (c - b)).ToLower() + // minuscula
-        //                      nombre.Substring((c + 1), 1).ToUpper() + // 4° mayuscula
-        //                      nombre.Substring(c + 2).ToLower()); // minusculas, FIN
-        //    Console.ReadKey();
-        //}
+            Console.WriteLine(nombre.Substring(0, 1).ToUpper() + // 1° mayuscula 
+                              nombre.Substring(1, (a - 1)).ToLower() + // minuscula
+                              nombre.Substring(a, 1).ToUpper() + // 2° mayuscula
+                              nombre.Substring((a + 1), (b - a - 1)).ToLower() +// minusculas
+                              nombre.Substring(b, 1).ToUpper() + // 3° mayuscula
+                              nombre.Substring((b + 1), (c - b)).ToLower() + // minuscula
+                              nombre.Substring((c + 1), 1).ToUpper() + // 4° mayuscula
+                              nombre.Substring(c + 2).ToLower()); // minusculas, FIN
+            Console.ReadKey();
+        }
     }
 }
