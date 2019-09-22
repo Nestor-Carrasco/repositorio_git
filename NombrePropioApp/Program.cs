@@ -11,12 +11,12 @@ namespace NombrePropioApp
         static void Main(string[] args)
         {
             string nombre = "arIEl jA cID carDENAs";
-            int a = nombre.IndexOf(" ") + 1; // posicion de 1° caracter despues de 1° caracter nulo de izquierda a derecha
+            int a = nombre.IndexOf(" ") + 1; // posicion del 1° caracter nulo de izquierda a derecha
 
             string primerNombre = nombre.Substring(a);
-            int b = a + primerNombre.IndexOf(" ") + 1;
+            int b = a + primerNombre.IndexOf(" ") + 1; // posicion del 2° caracter nulo de izquierda a derecha
 
-            int c = nombre.LastIndexOf(" "); // posicion de 1° caracter nulo de derecha a izquierda
+            int c = nombre.LastIndexOf(" "); // posicion del 3° caracter nulo de izquierda a derecha
 
             Console.WriteLine(nombre.Substring(0, 1).ToUpper() + // 1° mayuscula 
                               nombre.Substring(1, (a - 1)).ToLower() + // minuscula
